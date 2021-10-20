@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Calculator {
     public static void main(String[] args) {
-        Scanner scnr = new Scanner(System.in);
+        Scanner scnr = new Scanner(System.in); //added commit for git
         double result = 0.0;
         double calcSum = 0;
         double calcNum = 0;
